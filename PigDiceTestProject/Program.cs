@@ -15,7 +15,7 @@ namespace PigDiceTestProject {
                 playString = playString.ToUpper();
                 Console.Clear();
 
-                // For future debugging, right now we are not geting the string 'Y'
+                // For future debugging, right now we are not geting the string 'Y' 
                 Console.WriteLine(playString);
                 if (playString == "Y") {
                     play = true;
